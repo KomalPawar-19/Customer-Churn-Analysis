@@ -14,6 +14,12 @@ Developed an interactive Customer Churn Analysis Dashboard using **SQL**, **Powe
 
 ---
 
+## Dataset
+
+The dataset used for this project is the IBM Telco Customer Churn dataset.
+
+---
+
 ## 📈 Dashboard Preview
 
 ![Customer Churn Dashboard](Dashboard.png)
@@ -67,6 +73,18 @@ Developed an interactive Customer Churn Analysis Dashboard using **SQL**, **Powe
 
 ---
 
+## Skills Demonstrated
+
+- SQL Data Exploration
+- Data Cleaning
+- DAX Measures
+- KPI Development
+- Data Visualization
+- Business Analysis
+- Dashboard Design
+
+  ---
+  
 ## 📂 Repository Contents
 
 - Customer_Churn_Analysis.pbix
